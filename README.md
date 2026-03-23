@@ -1,4 +1,4 @@
-# Introducción a la Programación y Computación I
+# Laboratorio Comunicación Asertiva
 ## Actividad 7 – Comunicación Asertiva en Equipos Remotos
 
 # Mini-Proyecto 1
