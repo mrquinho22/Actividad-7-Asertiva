@@ -77,14 +77,13 @@ Se encarga del mantenimiento del sistema, la gestión de usuarios y el correcto 
 
 ---
 
-# 5. Evento simulado: pérdida de conexión
+5. Evento simulado: pérdida de conexión
 
-Durante el desarrollo del mini-proyecto se simuló la situación en la que un integrante del equipo perdió la conexión a internet.
+Durante el desarrollo del mini proyecto, se planteó una situación en la que uno de los integrantes del equipo perdió el acceso a internet.
 
-Para resolver esta situación se aplicó una estrategia de **redistribución de tareas**, donde los miembros restantes asumieron las actividades pendientes con el objetivo de continuar el trabajo sin afectar el tiempo establecido.
+Para hacer frente a este inconveniente, se implementó una estrategia de reorganización de tareas, en la cual los demás miembros asumieron las responsabilidades pendientes, asegurando así la continuidad del trabajo dentro del tiempo previsto.
 
-Esta decisión permitió mantener la continuidad del proyecto y finalizar correctamente el documento final.
-
+Gracias a esta medida, el equipo logró mantener el progreso del proyecto y completar satisfactoriamente el documento final.
 ---
 
 # 6. Registro de comunicación del equipo
