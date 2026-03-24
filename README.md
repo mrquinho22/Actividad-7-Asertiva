@@ -7,7 +7,7 @@
 ### Integrantes
 - Marco Mérida
 - Luis Saloj
-- Josué Villegas
+- Giovanni Villegas 202501086
 
 ---
 
@@ -102,7 +102,7 @@ Se acuerda la siguiente distribución:
 [10:12] Luis Saloj  
 Presenta las funcionalidades principales del sistema.
 
-[10:14] Josué Villegas  
+[10:14] Giovanni Villegas  
 Entrega los roles del sistema y el flujo de uso.
 
 [10:20] Moderador  
