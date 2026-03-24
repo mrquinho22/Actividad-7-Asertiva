@@ -5,7 +5,7 @@
 ## Sistema de Gestión de Tareas Académicas
 
 ### Integrantes
-- Marco Mérida
+- Marco Mérida - 202500065
 - Luis Saloj
 - Giovanni Villegas 202501086
 
