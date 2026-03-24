@@ -6,7 +6,7 @@
 
 ### Integrantes
 - Marco Mérida - 202500065
-- Luis Saloj
+- Luis Saloj - 202503517
 - Giovanni Villegas 202501086
 
 ---
